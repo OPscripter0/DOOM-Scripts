@@ -1,5 +1,5 @@
 if game.PlaceId == 126884695634066 then
-     loadstring(game:HttpGet("http://109.71.240.235:3910/cdn/gag.luau"))()
+     loadstring(game:HttpGet("https://raw.githubusercontent.com/OPscripter0/DOOM-Scripts/refs/heads/main/GAG"))()
 elseif game.PlaceId == 142823291 then
     loadstring(game:HttpGet("http://109.71.240.235:3910/cdn/mm2.luau"))()
 end
